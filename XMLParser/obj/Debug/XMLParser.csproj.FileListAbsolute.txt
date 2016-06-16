@@ -1,0 +1,6 @@
+c:\users\mburke\documents\visual studio 2012\Projects\XMLParser\XMLParser\bin\Debug\XMLParser.exe.config
+c:\users\mburke\documents\visual studio 2012\Projects\XMLParser\XMLParser\bin\Debug\XMLParser.exe
+c:\users\mburke\documents\visual studio 2012\Projects\XMLParser\XMLParser\bin\Debug\XMLParser.pdb
+c:\users\mburke\documents\visual studio 2012\Projects\XMLParser\XMLParser\obj\Debug\XMLParser.csprojResolveAssemblyReference.cache
+c:\users\mburke\documents\visual studio 2012\Projects\XMLParser\XMLParser\obj\Debug\XMLParser.exe
+c:\users\mburke\documents\visual studio 2012\Projects\XMLParser\XMLParser\obj\Debug\XMLParser.pdb
